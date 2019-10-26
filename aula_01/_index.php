@@ -13,4 +13,4 @@ class NomeDaClass
 
 $obj = new NomeDaClass();
 
-$obj ->nomeDoMetodo();
+$obj->nomeDoMetodo();
